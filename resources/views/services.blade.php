@@ -4,16 +4,16 @@
 @section('content')
     <section class="md:px-24 flex md:flex-row flex-col gap-14 px-5 bg-[#F8F8F8] md:py-24 pb-0 py-16 items-center">
         <div class="md:w-[50%] md:sticky md:top-0">
-            <div class="flex items-center gap-1 md:justify-start justify-center">
+            <div class="flex items-center gap-1 md:justify-start justify-center animate__animated  animate__bounceInLeft">
                 <div class="w-2 h-2 rounded-full bg-secondary"></div>
                 <h6 class="text-[#141D38] font-bold text-base font-[Mada]">Our services</h6>
                 <div class="w-2 h-2 rounded-full bg-secondary"></div>
             </div>
             <h1
-                class="text-[#141D38] z-[1000] md:text-5xl mt-6 text-4xl font-extrabold md:leading-[70px] leading-[50px] md:text-left text-center">
+                class="text-[#141D38] z-[1000] md:text-5xl animate__animated  animate__bounceInLeft mt-6 text-4xl font-extrabold md:leading-[70px] leading-[50px] md:text-left text-center">
                 Comprehensive <span class="text-secondary">HR Solutions</span> Tailored to Your Needs
             </h1>
-            <p class="text-[#7B808E] md:text-xl text-lg mb-28 font-[Mada] leading-8 mt-6 md:text-left text-center">
+            <p class="text-[#7B808E] md:text-xl text-lg animate__animated  animate__bounceInLeft mb-28 font-[Mada] leading-8 mt-6 md:text-left text-center">
                 At MEL HR Services, we are committed to providing comprehensive human resource solutions that cater to the
                 unique needs of your organization. Our expert team combines deep industry knowledge with innovative
                 technology to streamline your HR processes, ensuring you have the right tools and strategies to foster an
@@ -23,7 +23,7 @@
             </p>
         </div>
 
-        <div class="w-[50%] hidden md:flex flex-col gap-16 h-[400px] py-16 overflow-y-scroll scrollbar-hide">
+        <div class="w-[50%] hidden md:flex flex-col gap-16 h-[400px] py-16 overflow-y-scroll scrollbar-hide" data-aos="fade-up" data-aos-duration="1000">
             <div class="bg-primary rounded-2xl h-[338px] p-6 text-white">
                 <h4 class="font-bold text-3xl">Human Resource Consulting</h4>
                 <ul class="px-4 pt-3 list-disc font-[Mada] flex flex-col gap-2">

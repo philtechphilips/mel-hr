@@ -1,4 +1,4 @@
-<div class="w-full md:px-24 px-5 py-24 rounded-3xl relative">
+<div class="w-full md:px-24 px-5 py-24 rounded-3xl relative" data-aos="fade-up" data-aos-duration="1000">
     <div style="background: url('{{ asset('images/image 7.webp') }}'); background-size: cover; background-position: center;"
         class="w-full h-[359px] relative rounded-3xl flex flex-col items-center justify-center">
 
