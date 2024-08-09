@@ -26,6 +26,21 @@
     @include('includes.faqs')
     @include('includes.footer')
 
+
+    {{-- Navigation Script --}}
+    <script>
+        const toggleButton = document.querySelectorAll('.menuButton');
+        const menu = document.getElementById('menu');
+
+        toggleButton.forEach(function(button) {
+            button.addEventListener('click', function() {
+                menu.classList.toggle('translate-x-[500px]');
+            })
+        });
+    </script>
+    {{-- Navigation Script ends here --}}
+
+    {{-- Accordion Scripts --}}
     <script>
         const accordions = document.getElementsByClassName("accordion");
     
@@ -60,9 +75,7 @@
             });
         }
     </script>
-    
-    
-    
+    {{-- Accordion scripts ends here --}}
     @yield("script")
 </body>
 

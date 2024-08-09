@@ -15,7 +15,7 @@
         </p>
 
         <div class="flex flex-wrap mt-12">
-            <div class="md:w-1/2 mb-10 flex gap-4 items-center">
+            <div class="md:w-1/2  mb-10 flex gap-4 items-center">
                 <div class="w-20 h-20 p-4 bg-light rounded-full flex items-center justify-center">
                     <div class="w-12 h-12 p-4 bg-primary rounded-full flex items-center justify-center">
                             <h6 class="text-[#F0F1FA] text-2xl font-bold">
@@ -32,7 +32,7 @@
                 </div>
             </div>
 
-            <div class="md:w-1/2 flex mb-10 gap-4 items-center">
+            <div class="md:w-1/2  flex mb-10 gap-4 items-center">
                 <div class="w-20 h-20 p-4 bg-light rounded-full flex items-center justify-center">
                     <div class="w-12 h-12 p-4 bg-primary rounded-full flex items-center justify-center">
                             <h6 class="text-[#F0F1FA] text-2xl font-bold">
@@ -49,8 +49,7 @@
                 </div>
             </div>
 
-
-            <div class="md:w-1/2 mb-10 flex gap-4 items-center">
+            <div class="md:w-1/2  mb-10 flex gap-4 items-center">
                 <div class="w-20 h-20 p-4 bg-light rounded-full flex items-center justify-center">
                     <div class="w-12 h-12 p-4 bg-primary rounded-full flex items-center justify-center">
                             <h6 class="text-[#F0F1FA] text-2xl font-bold">
@@ -67,8 +66,7 @@
                 </div>
             </div>
 
-
-            <div class="md:w-1/2 flex mb-10 gap-4 items-center">
+            <div class="md:w-1/2  flex mb-10 gap-4 items-center">
                 <div class="w-20 h-20 p-4 bg-light rounded-full flex items-center justify-center">
                     <div class="w-12 h-12 p-4 bg-primary rounded-full flex items-center justify-center">
                             <h6 class="text-[#F0F1FA] text-2xl font-bold">

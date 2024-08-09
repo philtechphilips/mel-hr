@@ -4,14 +4,14 @@
 @section('content')
     <section class="md:px-24 px-5 h-[700px] flex flex-col justify-center relative w-full bg-opacity-10"
         style="background: url('{{ asset('images/mel-hr-hero-bg.webp') }}')">
-        <div class="z-[1000000] md:w-[744px] flex flex-col items-center md:items-start">
+        <div class="z-[1000] md:w-[744px] flex flex-col items-center md:items-start">
             <div class="flex items-center gap-1 md:justify-start justify-center">
                 <div class="w-2 h-2 rounded-full bg-secondary"></div>
                 <h6 class="text-white font-bold text-base font-[Mada]">MEL HR Service</h6>
                 <div class="w-2 h-2 rounded-full bg-secondary"></div>
             </div>
             <h1
-                class="text-white z-[1000000] md:text-6xl text-4xl font-bold md:leading-[70px] leading-[50px] md:text-left text-center">
+                class="text-white z-[1000] md:text-6xl text-4xl font-bold md:leading-[70px] leading-[50px] md:text-left text-center">
                 Expert <span class="text-secondary">HR
                     Solutions</span> for a thriving workplace</h1>
             <p class="text-white md:text-xl text-lg mb-12 font-[Mada] leading-8 mt-6 md:text-left text-center">MEL HR
