@@ -23,8 +23,11 @@
                 motivated and agile workforce.</p>
 
             <a href="/contact"
-                class="bg-primary  z-[1000000] text-white px-8 py-3 rounded-full text-lg font-medium animate__animated  animate__bounceInLeft">Consult
-                us today</a>
+                class="bg-primary flex items-center gap-2 hover:gap-4 hover:bg-btn h z-[1000000] text-white px-8 py-3 rounded-full text-lg font-medium animate__animated animate__bounceInLeft transition-all duration-300 ease-in-out">
+                <p>Consult us today</p>
+                <img src="{{ asset('images/arrow.svg') }}" class="mt-1" alt="">
+            </a>
+
         </div>
         <div class="w-full h-full bg-black opacity-70 z-0 absolute top-0 left-0"></div>
     </section>
@@ -53,15 +56,15 @@
                 <span class="text-secondary">human capital</span> management
             </h2>
 
-            <p class="text-[#7B808E] font-[Mada] md:text-xl text-lg leading-8 text-center md:text-left"
-                data-aos="fade-left" data-aos-duration="1000">MEL HR Service is a
+            <p class="text-[#7B808E] font-[Mada] md:text-xl text-lg leading-8 text-center md:text-left" data-aos="fade-left"
+                data-aos-duration="1000">MEL HR Service is a
                 Human resource company domiciled in Nigeria rendering labor law advisory, outsourcing
                 services, recruitment, payroll service, employee management and other strategic functions of Human
                 resources. We offer our expertise and leverage technology by simplifying human capital management which
                 enriches you with an agile and motivated workforce.
             </p>
 
-            <a href="/contact" class="bg-primary w-fit text-white px-8 py-3 rounded-full text-lg font-medium"
+            <a href="/about-us" class="bg-primary w-fit text-white px-8 py-3 rounded-full text-lg font-medium"
                 data-aos="fade-left" data-aos-duration="1000">More about
                 us
             </a>
@@ -90,7 +93,7 @@
                 <p class="font-[Mada] md:text-xl text-lg text-white text-center md:text-left md:w-[645px]"
                     data-aos="fade-right" data-aos-duration="1000" data-aos-delay="150">Explore our range
                     of professional HR services designed to optimize your workforce and enhance business efficiency.</p>
-                <a href="/contact"
+                <a href="/services"
                     class="bg-primary mt-6 md:mt-0  z-[1000000] text-white px-8 py-3 rounded-full text-lg font-medium"
                     data-aos="fade-left" data-aos-duration="1000">
                     Explore our services

@@ -9,6 +9,7 @@ module.exports = {
         primary: "#33439A",
         secondary: "#52C3BC",
         light: "#E4E7F6",
+        btn: "#6676CC",
       }
     },
   },

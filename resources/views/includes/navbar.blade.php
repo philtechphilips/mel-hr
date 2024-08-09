@@ -1,8 +1,8 @@
 <header
     class="hidden sticky bg-white z-[100000] top-0 md:px-24 px-5 w-full md:flex items-center justify-between py-5 max-h-20">
-    <div>
+    <a href="/">
         <img src="{{ asset('images/mel-hr.svg') }}" alt="">
-    </div>
+    </a>
 
     <ul class="flex items-center gap-8">
         <li class="text-[#141D38] hover:text-primary text-sm font-semibold">
@@ -20,12 +20,12 @@
         </li>
     </ul>
 
-    <a href="/contact" class="bg-primary text-white px-8 py-3 rounded-full text-lg font-medium">Consult us today</a>
+    <a href="/contact" class="bg-primary hover:bg-[#6676CC] text-white px-8 py-3 rounded-full text-lg font-medium">Consult us today</a>
 </header>
 <header class="md:px-24 sticky bg-white z-[10000] top-0 px-5 w-full flex md:hidden items-center justify-between py-5">
-    <div>
+    <a href="/">
         <img src="{{ asset('images/mel-hr.svg') }}" alt="">
-    </div>
+    </a>
 
     <i class="ri-menu-fill text-3xl menuButton"></i>
 </header>
@@ -56,12 +56,13 @@
         </li>
 
         <li>
-            <a href="/contact" class=" font-medium text-xl text-[#434343] leading-6 py-2">Contacts</a>
+            <a href="/contact" class=" font-medium text-xl text-[#434343] leading-6 py-2">Contact</a>
 
         </li>
 
         <li class="flex gap-2 items-center rounded-lg px-6 py-3">
-            <a href="/contact" class="bg-primary  z-[1000000] text-white px-8 py-3 rounded-full text-lg font-medium">Consult
+            <a href="/contact"
+                class="bg-primary hover:bg-[#6676CC] z-[1000000] text-white px-8 py-3 rounded-full text-lg font-medium">Consult
                 us today
             </a>
         </li>
