@@ -156,4 +156,6 @@
             </div>
         </div>
     </section>
+
+    @include('includes.chose-us')
 @endsection

@@ -21,7 +21,7 @@
         </p>
 
         <div class="flex md:flex-row flex-col gap-16">
-            <div class="md:w-[50%] bg-primary md:p-6 p-4 pb-8 rounded-3xl flex md:flex-row flex-col gap-6">
+            <div class="md:w-[50%] bg-primary p-6 pb-8 rounded-3xl flex md:flex-row flex-col gap-6">
                 <div
                     class="w-[88px] h-[88px] z-[20] bg-white p-4 rounded-full flex items-center justify-center bg-opacity-20">
                     <div class="w-[56px] h-[56px] bg-white p-4 rounded-full flex items-center justify-center">
@@ -34,7 +34,7 @@
                     <p class="text-[#F8F8F8] ">Our mission is to empower businesses by providing comprehensive HR solutions that streamline operations and enhance workforce productivity. We aim to help businesses thrive by offering top-tier HR expertise, enabling them to focus on their core operations and achieve exceptional growth.</p>
                 </div>
             </div>
-            <div class="md:w-[50%] bg-primary md:p-6 p-4 pb-8 rounded-3xl flex md:flex-row flex-col gap-6">
+            <div class="md:w-[50%] bg-primary p-6 pb-8 rounded-3xl flex md:flex-row flex-col gap-6">
                 <div
                     class="w-[88px] h-[88px] z-[20] bg-white p-4 rounded-full flex items-center justify-center bg-opacity-20">
                     <div class="w-[56px] h-[56px] bg-white p-4 rounded-full flex items-center justify-center">
@@ -52,4 +52,6 @@
         </div>
 
     </section>
+
+    @include('includes.chose-us')
 @endsection

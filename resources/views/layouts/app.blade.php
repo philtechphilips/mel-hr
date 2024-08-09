@@ -22,7 +22,6 @@
 <body class="font-[Mulish] overflow-x-hidden bg-white">
     @include('includes.navbar')
     @yield('content')
-    @include('includes.chose-us')
     @include('includes.faqs')
     @include('includes.footer')
 

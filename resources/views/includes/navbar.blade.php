@@ -16,7 +16,7 @@
             <a href="/services">Services</a>
         </li>
         <li class="text-[#141D38] hover:text-primary text-sm font-semibold">
-            <a href="/">Contact</a>
+            <a href="/contact">Contact</a>
         </li>
     </ul>
 
