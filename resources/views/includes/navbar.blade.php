@@ -1,4 +1,4 @@
-<header class="hidden md:px-24 px-5 w-full md:flex items-center justify-between py-5 max-h-20">
+<header class="hidden sticky bg-white z-[100000000] top-0 md:px-24 px-5 w-full md:flex items-center justify-between py-5 max-h-20">
     <div>
         <img src="{{ asset('images/mel-hr.svg') }}" alt="">
     </div>

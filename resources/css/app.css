@@ -1,3 +1,55 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.accordion-bottom {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    padding: 0;
+    transition: max-height 0.3s ease-in-out, padding-top 0.3s ease-out,
+        opacity 0.3s ease-in-out;
+}
+
+.accordion-bottom p {
+   visibility: hidden;
+}
+
+.accordion.active .accordion-bottom p {
+    visibility: visible;
+ }
+ 
+
+
+.accordion.active .accordion-bottom {
+    max-height: 500px;
+    opacity: 1;
+    padding: 20px;
+}
+
+.accordion-top {
+    background-color: white;
+    border-radius: 8px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.accordion.active .accordion-top {
+    background-color: #33439a;
+    border-radius: 8px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.accordion-top h2 {
+    color: #141d38;
+}
+
+.accordion.active .accordion-top h2 {
+    color: #f8f8f8;
+}
+
+.accordion-top,
+.accordion-top h2 {
+    transition: none;
+}

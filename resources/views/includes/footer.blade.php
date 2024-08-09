@@ -16,14 +16,14 @@
 
 <footer
     class="w-full md:py-40 py-16 relative bg-[#141D38] flex md:flex-row flex-col 2xl:gap-36 md:gap-32 gap-8 md:px-24 px-5">
-    <div class="flex flex-col gap-6 flex-grow min-w-[200px]">
+    <div class="flex flex-col gap-6 min-w-[200px]">
         <img src="{{ asset('images/mel-hr.svg') }}" class="w-36 z-10" alt="">
         <p class="text-white z-10 ">MEL HR Services is a leading HR consulting firm in Nigeria, offering expert labor
             law advisory, payroll management, recruitment, and employee management solutions to help businesses
             thrive.</p>
     </div>
 
-    <div class="flex flex-col gap-2 flex-grow z-10 max-w-[200px]">
+    <div class="flex flex-col gap-2 z-10 max-w-[200px]">
         <h6 class="text-[#B2B5BD] z-10 text-xl font-semibold max-w-[153px]">Link</h6>
         <ul class="flex flex-col gap-2 z-10">
             <li><a href="/" class="text-white z-10 min-w-[153px]">Home</a></li>
@@ -33,7 +33,7 @@
         </ul>
     </div>
 
-    <div class="flex flex-col gap-2 flex-grow z-10 min-w-[200px]">
+    <div class="flex flex-col gap-2 z-10 min-w-[200px]">
         <h6 class="text-[#B2B5BD] z-10 text-xl font-semibold">Address</h6>
         <p class="text-white min-w-[153px]">Suite 207, AHCN Towers, CIPM Avenue,
             Alausa
@@ -41,7 +41,7 @@
             Ikeja, Lagos.</p>
     </div>
 
-    <div class="flex flex-col gap-2 flex-grow z-10 min-w-[200px]">
+    <div class="flex flex-col gap-2 z-10 min-w-[200px]">
         <h6 class="text-[#B2B5BD] z-10 text-xl">Contact us</h6>
         <p class="text-white font-semibold min-w-[250px]">Email:</p>
         <p class="text-white min-w-[250px]">hrs@mel-ng.com</p>
