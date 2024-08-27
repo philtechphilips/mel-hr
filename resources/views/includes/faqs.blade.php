@@ -4,7 +4,8 @@
         <h6 class="text-primary font-bold text-base font-[Mada]">Frequently asked questions</h6>
         <div class="w-2 h-2 rounded-full bg-secondary"></div>
     </div>
-    <h1 class="md:text-4xl text-3xl font-extrabold text-center md:text-left mt-2 md:w-[738px] mb-16 md:pr-10 leading-10 md:leading-[50px]">
+    <h1
+        class="md:text-4xl text-3xl font-extrabold text-center md:text-left mt-2 md:w-[738px] mb-16 md:pr-10 leading-10 md:leading-[50px]">
         <span class="text-secondary">Common questions</span> you might have about our services
     </h1>
     <div class="flex md:flex-row flex-col gap-12">
@@ -12,8 +13,8 @@
             <div class="accordion cursor-pointer">
                 <div class="flex items-center p-5 justify-between accordion-top">
                     <div class="flex items-center gap-10">
-                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">1. What services does Notary Public
-                            Oshawa offer?</h2>
+                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">1. What Industries do you specialize
+                            in for Recruitment?</h2>
                     </div>
 
                     <i class="ri-add-line text-[#141d38] text-lg cursor-pointer"></i>
@@ -21,9 +22,7 @@
 
                 <div class="p-5 accordion-bottom bg-white rounded-b-lg">
                     <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
+                        Our recruitment deliverable is not limited to a industry. You need a talent, we source for it.
                     </p>
                 </div>
             </div>
@@ -32,7 +31,7 @@
                 <div class="flex items-center p-5 justify-between accordion-top">
                     <div class="flex items-center gap-10">
                         <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">2. How does MEL HR Services ensure
-                            compliance with local labor laws?</h2>
+                            compliance with Local Labor Laws?</h2>
                     </div>
 
                     <i class="ri-add-line text-[#141d38] text-lg cursor-pointer"></i>
@@ -40,9 +39,7 @@
 
                 <div class="p-5 accordion-bottom bg-white rounded-b-lg">
                     <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
+                        Our HR Team are experienced personnels and have vast understanding of labor laws.
                     </p>
                 </div>
             </div>
@@ -50,8 +47,9 @@
             <div class="accordion cursor-pointer">
                 <div class="flex items-center p-5 justify-between accordion-top">
                     <div class="flex items-center gap-10">
-                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">3. Can you provide remote HR
-                            consulting services?</h2>
+                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">3. Can you provide Remote HR
+                            Consulting services?
+                        </h2>
                     </div>
 
                     <i class="ri-add-line text-[#141d38] text-lg cursor-pointer"></i>
@@ -59,9 +57,9 @@
 
                 <div class="p-5 accordion-bottom bg-white rounded-b-lg">
                     <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
+                        Remote Consulting is the core of our business giving the current trend of
+                        business operations globally. We can extend our offering to you regardless of the
+                        country you are domiciled in.
                     </p>
                 </div>
             </div>
@@ -78,13 +76,13 @@
 
                 <div class="p-5 accordion-bottom bg-white rounded-b-lg">
                     <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
+                        We are NDPR Compliant
                     </p>
                 </div>
             </div>
+        </div>
 
+        <div class="md:w-1/2 flex flex-col gap-6">
             <div class="accordion cursor-pointer">
                 <div class="flex items-center p-5 justify-between accordion-top">
                     <div class="flex items-center gap-10">
@@ -97,20 +95,18 @@
 
                 <div class="p-5 accordion-bottom bg-white rounded-b-lg">
                     <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
+                        You can mail us a brief of your need and expectations, we schedule a call with you
+                        to discuss timelines and we get the job done.
                     </p>
                 </div>
             </div>
-        </div>
 
-        <div class="md:w-1/2 flex flex-col gap-6">
             <div class="accordion cursor-pointer">
                 <div class="flex items-center p-5 justify-between accordion-top">
                     <div class="flex items-center gap-10">
                         <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">6. What makes your recruitment
-                            process different from others?</h2>
+                            process different from others?
+                        </h2>
                     </div>
 
                     <i class="ri-add-line text-[#141d38] text-lg cursor-pointer"></i>
@@ -118,9 +114,7 @@
 
                 <div class="p-5 accordion-bottom bg-white rounded-b-lg">
                     <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
+                        The distinction is in the attention to silent details that is normally overlooked.
                     </p>
                 </div>
             </div>
@@ -128,26 +122,7 @@
             <div class="accordion cursor-pointer">
                 <div class="flex items-center p-5 justify-between accordion-top">
                     <div class="flex items-center gap-10">
-                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">7. How do you support employee
-                            engagement and retention?</h2>
-                    </div>
-
-                    <i class="ri-add-line text-[#141d38] text-lg cursor-pointer"></i>
-                </div>
-
-                <div class="p-5 accordion-bottom bg-white rounded-b-lg">
-                    <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
-                    </p>
-                </div>
-            </div>
-
-            <div class="accordion cursor-pointer">
-                <div class="flex items-center p-5 justify-between accordion-top">
-                    <div class="flex items-center gap-10">
-                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">8. What kind of payroll services do
+                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">7. What kind of payroll services do
                             you offer?</h2>
                     </div>
 
@@ -156,9 +131,8 @@
 
                 <div class="p-5 accordion-bottom bg-white rounded-b-lg">
                     <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
+                        We offer payroll computation and disbursement. The computation gives you a
+                        total view of what each employee cost you.
                     </p>
                 </div>
             </div>
@@ -166,7 +140,7 @@
             <div class="accordion cursor-pointer">
                 <div class="flex items-center p-5 justify-between accordion-top">
                     <div class="flex items-center gap-10">
-                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">9. Can you help us develop or review
+                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">8. Can you help us develop or review
                             our HR policies?</h2>
                     </div>
 
@@ -175,28 +149,7 @@
 
                 <div class="p-5 accordion-bottom bg-white rounded-b-lg">
                     <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
-                    </p>
-                </div>
-            </div>
-
-            <div class="accordion cursor-pointer">
-                <div class="flex items-center p-5 justify-between accordion-top">
-                    <div class="flex items-center gap-10">
-                        <h2 class="text-lg text-[#F8F8F8] font-[Mada] font-medium">10. How do you measure the success
-                            of your HR solutions?</h2>
-                    </div>
-
-                    <i class="ri-add-line text-[#141d38] text-lg cursor-pointer"></i>
-                </div>
-
-                <div class="p-5 accordion-bottom bg-white rounded-b-lg">
-                    <p class="font-base font-[Mada] text-[#7B808E]">
-                        We provide notarization of documents, preparation of affidavits, act as a Commissioner of Oath,
-                        and
-                        offer free document printing with fast and express services.
+                        Yes sure! Let us have a call in order to understand your vision.
                     </p>
                 </div>
             </div>
